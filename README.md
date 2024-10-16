@@ -7,6 +7,7 @@ Learn to build a real-time messaging Chat App using React, Socket.io, Node.js, R
 # Server .env file
 
 FRONTEND_URL = <Frontend URL>
+<br>
 MONGODB_URI  = <Mongodb URI>
 JWT_SECREAT_KEY = <JWT Secreat Key>
 
