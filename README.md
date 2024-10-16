@@ -9,12 +9,16 @@ Learn to build a real-time messaging Chat App using React, Socket.io, Node.js, R
 FRONTEND_URL = <Frontend URL>
 <br>
 MONGODB_URI  = <Mongodb URI>
+<br>
 JWT_SECREAT_KEY = <JWT Secreat Key>
+<br>
 
 # client .env file
 
 REACT_APP_CLOUDINARY_CLOUD_NAME = <Cloudinary cloud name>
+<br>
 REACT_APP_BACKEND_URL = <Backend URL>
+<br>
 
 # Assets File
-Google Drive : https://drive.google.com/drive/folders/1mu6WFx63mlsbbwugdWgRGII_1YPruL00?usp=sharing 
+Google Drive : https://drive.google.com/drive/folders/1i4PyqWy3Iai2xjIc4uNyCze_Tnp7XOZq?usp=drive_link
