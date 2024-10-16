@@ -1,0 +1,11 @@
+Client:
+
+Step 1 ) npx create-react-app client
+
+
+Step 2 ) install tailwind css 
+	 npm install -D tailwindcss
+	 npx tailwaindcss init
+
+Step 3 ) Now install Router
+	 npm I react-router-dom
