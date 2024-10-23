@@ -22,3 +22,6 @@ REACT_APP_BACKEND_URL = <Backend URL>
 
 # Assets File
 Google Drive : https://drive.google.com/drive/folders/1i4PyqWy3Iai2xjIc4uNyCze_Tnp7XOZq?usp=drive_link
+
+# Screen Shots
+PDF Link : 
