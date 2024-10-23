@@ -1,4 +1,5 @@
 ﻿## Build Chat App with React, Socket.io, Nodejs, Redux-Toolkit, MongoDB (2024)
+ ### by Nishit Shivdasani
 
 ![](Full%20Stack%20Chat%20App.png?raw=true "Made by Nishit Shivdasani")
 
