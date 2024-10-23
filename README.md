@@ -24,4 +24,4 @@ REACT_APP_BACKEND_URL = <Backend URL>
 Google Drive : https://drive.google.com/drive/folders/1i4PyqWy3Iai2xjIc4uNyCze_Tnp7XOZq?usp=drive_link
 
 # Screen Shots
-PDF Link : 
+[PDF Link :](https://github.com/BottomsNode/MERN-Chat-App/blob/main/Screen-Shots.pdf)
